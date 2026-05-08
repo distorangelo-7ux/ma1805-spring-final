@@ -31,7 +31,7 @@ If done right, you should see the obstacle in front of you gone. You can keep mo
 
 Turn off your mechsuit as soon as you hear a screeching sound. Don't turn your mechsuit on until you hear the sound of wings. Moving or turning before letting the creature pass will lead to a game over.
 
-Alternatively, you can watch this video [walkthrough](https://youtu.be/5Cp6nJrYwtA?si=gkldzkHPeKUjbNIr):
+Alternatively, you can watch this video [walkthrough](https://youtu.be/5Cp6nJrYwtA?si=gkldzkHPeKUjbNIr)
 
 # INSPIRATION
 This project spawned from my interest in giant robots and mecha anime. I wanted to use my programming skills to envision what it would feel like to pilot a mecha with unconventional and clunky controls.
@@ -55,5 +55,5 @@ I had largely underestimated how massive this project was and wasn't able to do 
 This project definitely didn't go as planned. Though I'm happy to have implemented all the mechanics I wanted to add, some more polish could have been used for refining some assets and adding more feedback to your actions overall. Having an in-game tutorial instead of relying on this README file also would've helped a lot.
 
 # CREDITS
-Models and textures made with [Blockbench] (https://www.blockbench.net/)
+Models and textures made with [Blockbench](https://www.blockbench.net/)
 Audio from [freesound](https://freesound.org/)
